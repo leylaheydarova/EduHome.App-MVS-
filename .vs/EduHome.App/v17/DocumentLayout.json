@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\context\\eduhomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\context\\eduhomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\appsettings.json",
+              "RelativeDocumentMoniker": "EduHome.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\appsettings.json",
+              "RelativeToolTip": "EduHome.App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T14:00:09.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Program.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Program.cs",
+              "RelativeToolTip": "EduHome.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:59:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EduHomeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\context\\EduHomeDbContext.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\context\\EduHomeDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\context\\EduHomeDbContext.cs",
+              "RelativeToolTip": "EduHome.App\\context\\EduHomeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:53:56.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EduHome.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAgwJkBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T13:43:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EduHome.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EduHome.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T13:38:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EduHome.App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:29:11.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
