@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\implements\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\implements\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\context\\eduhomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\context\\eduhomedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Migrations\\20240712145858_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EduHome.App\\Migrations\\20240712145858_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +103,12 @@
       "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\mvs\\eduhome.app\\eduhome.app\\migrations\\20240712145858_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11C6B46-3F61-42F6-BDA6-5504DE9BF963}|EduHome.App\\EduHome.App.csproj|solutionrelative:eduhome.app\\migrations\\20240712145858_slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,11 +118,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Services\\Implements\\SliderService.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Services\\Implements\\SliderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Services\\Implements\\SliderService.cs",
+              "RelativeToolTip": "EduHome.App\\Services\\Implements\\SliderService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA3wBgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:22:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Services\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "EduHome.App\\Services\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:21:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Implements\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Repositories\\Implements\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Implements\\SliderRepository.cs",
+              "RelativeToolTip": "EduHome.App\\Repositories\\Implements\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:18:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "EduHome.App\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeToolTip": "EduHome.App\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:17:07.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "20240712145858_slider.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Migrations\\20240712145858_slider.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Migrations\\20240712145858_slider.cs",
@@ -114,12 +182,11 @@
               "RelativeToolTip": "EduHome.App\\Migrations\\20240712145858_slider.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:58:59.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:58:59.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Teacher\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Teacher\\Index.cshtml",
@@ -127,12 +194,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Teacher\\Index.cshtml",
               "ViewState": "AQIAANcAAAAAAAAAAAAgwOQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:27:35.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:27:35.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Course\\Index.cshtml",
@@ -140,12 +206,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Course\\Index.cshtml",
               "ViewState": "AQIAALEAAAAAAAAAAAAgwL4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:27:22.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:27:22.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Contact\\Index.cshtml",
@@ -153,12 +218,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Contact\\Index.cshtml",
               "ViewState": "AQIAAFAAAAAAAAAAAAAgwF0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:27:11.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:27:11.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Blog\\Index.cshtml",
@@ -166,12 +230,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Blog\\Index.cshtml",
               "ViewState": "AQIAAAABAAAAAAAAAAAgwA0BAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:27:00.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:27:00.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\About\\Index.cshtml",
@@ -179,12 +242,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\About\\Index.cshtml",
               "ViewState": "AQIAAFkAAAAAAAAAAAAgwGAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:26:37.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:26:37.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\TeacherController.cs",
@@ -192,12 +254,11 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\TeacherController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:25:29.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:25:29.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\BlogController.cs",
@@ -205,12 +266,11 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\BlogController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:25:13.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:25:13.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\ContactController.cs",
@@ -218,12 +278,11 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\ContactController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:24:12.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:24:12.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\CourseController.cs",
@@ -231,12 +290,11 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:23:11.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:23:11.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\AboutController.cs",
@@ -244,12 +302,11 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\AboutController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:21:44.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:21:44.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "EduHome.App\\ScaffoldingReadMe.txt",
@@ -257,37 +314,37 @@
               "RelativeToolTip": "EduHome.App\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-12T13:21:24.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T13:21:24.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Implements\\GenericRepository.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Repositories\\Implements\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Implements\\GenericRepository.cs",
               "RelativeToolTip": "EduHome.App\\Repositories\\Implements\\GenericRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wCEAAAArAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T14:02:38.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Repositories\\Interfaces\\IGenericRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Repositories\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "EduHome.App\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAATAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:39:08.513Z"
+              "WhenOpened": "2024-07-10T13:39:08.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Models\\Slider.cs",
@@ -295,12 +352,11 @@
               "RelativeToolTip": "EduHome.App\\Models\\Slider.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:15:33.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T13:15:33.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Models\\BaseModel\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Models\\BaseModel\\BaseEntity.cs",
@@ -308,12 +364,11 @@
               "RelativeToolTip": "EduHome.App\\Models\\BaseModel\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:12:53.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T13:12:53.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\_ViewImports.cshtml",
@@ -321,12 +376,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T14:09:11.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:09:11.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\appsettings.json",
               "RelativeDocumentMoniker": "EduHome.App\\appsettings.json",
@@ -334,12 +388,11 @@
               "RelativeToolTip": "EduHome.App\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T14:00:09.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:00:09.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Program.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Program.cs",
@@ -351,20 +404,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "EduHomeDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\context\\EduHomeDbContext.cs",
               "RelativeDocumentMoniker": "EduHome.App\\context\\EduHomeDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\context\\EduHomeDbContext.cs",
               "RelativeToolTip": "EduHome.App\\context\\EduHomeDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA8AAAAxAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T13:53:56.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Home\\Index.cshtml",
@@ -372,12 +425,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkBAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T13:43:30.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T13:43:30.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EduHome.App\\Views\\Shared\\_Layout.cshtml",
@@ -385,12 +437,11 @@
               "RelativeToolTip": "EduHome.App\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAPMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T13:38:55.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T13:38:55.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\MVS\\EduHome.App\\EduHome.App\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EduHome.App\\Controllers\\HomeController.cs",
@@ -398,8 +449,7 @@
               "RelativeToolTip": "EduHome.App\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:29:11.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T13:29:11.349Z"
             }
           ]
         }

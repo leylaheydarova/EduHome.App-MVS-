@@ -11,7 +11,7 @@ namespace EduHome.App.Repositories.Implements
     {
         private readonly EduHomeDbContext _context;
         private readonly DbSet<T> _dbSet;
-        public GenericRepository()
+        public GenericRepository(EduHomeDbContext context)
         {
             _context = new EduHomeDbContext();
             _dbSet = _context.Set<T>();
@@ -34,24 +34,25 @@ namespace EduHome.App.Repositories.Implements
             return _dbSet.Where(predicate);
         }
 
-        public Task<T> GetAsync(Expression<Func<T, bool>> predicate)
+        public async Task<T>? GetAsync(Expression<Func<T, bool>> predicate)
         {
-            throw new NotImplementedException();
+            return await _dbSet.Where(predicate).FirstOrDefaultAsync();
         }
 
         public int Save()
         {
-            throw new NotImplementedException();
+            return _context.SaveChanges();
         }
 
-        public Task<int> SaveAsync()
+        public async Task<int> SaveAsync()
         {
-            throw new NotImplementedException();
+            return await _context.SaveChangesAsync();
         }
 
         public bool Update(T entity)
         {
-            throw new NotImplementedException();
+            EntityEntry entry = _dbSet.Update(entity);
+            return entry.State == EntityState.Modified;
         }
     }
 }
